@@ -1,0 +1,35 @@
+{
+  "name": "bengkelsaas",
+  "owner": {
+    "name": "Adang",
+    "url": "https://github.com/adanghd"
+  },
+  "metadata": {
+    "description": "Bengkel SaaS: perintah dan protokol perawatan tools yang sudah jalan, buat manusia dan agent.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bengkelsaas",
+      "source": "./",
+      "description": "Protokol perawatan tools dan SaaS yang sudah jalan: pagar dulu, satu perubahan satu uji, akar masalah bukan gejala, rollback selalu siap. Kepanggil otomatis tiap kerjaan menyentuh sistem berjalan.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Adang",
+        "url": "https://github.com/adanghd"
+      },
+      "homepage": "https://adanghd.github.io/bengkelsaas/",
+      "license": "MIT",
+      "category": "workflow",
+      "keywords": [
+        "maintenance",
+        "sre",
+        "sqa",
+        "regression",
+        "rollback",
+        "agentic",
+        "indonesia"
+      ]
+    }
+  ]
+}

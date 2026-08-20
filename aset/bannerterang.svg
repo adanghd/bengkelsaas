@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Bengkel SaaS, buku servis buat tools yang udah jalan">
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E4EFEC"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#146661" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" fill="url(#plate)"/>
+  <rect width="1200" height="330" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#146661"/>
+  <rect x="0" y="322" width="1200" height="8" fill="#1E2B30"/>
+
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="64" y="86" fill="#146661" font-size="17" font-weight="700" letter-spacing="5.5">BUKU SERVIS VIBE CODER</text>
+    <text x="64" y="176" fill="#1E2B30" font-size="80" font-weight="800" letter-spacing="-1.5">Bengkel SaaS</text>
+    <text x="64" y="222" fill="#5C6E73" font-size="24">Perintah siap copas buat ngerawat tools yang udah jalan.</text>
+
+    <g transform="translate(64,258)">
+      <rect x="0" y="0" width="196" height="40" rx="20" fill="#E0EDEB"/>
+      <text x="98" y="26" fill="#146661" font-size="16" font-weight="700" text-anchor="middle">pagar dulu</text>
+
+      <rect x="212" y="0" width="252" height="40" rx="20" fill="#E0EDEB"/>
+      <text x="338" y="26" fill="#146661" font-size="16" font-weight="700" text-anchor="middle">satu ubah satu uji</text>
+
+      <rect x="476" y="0" width="238" height="40" rx="20" fill="#E0EDEB"/>
+      <text x="595" y="26" fill="#146661" font-size="16" font-weight="700" text-anchor="middle">rollback wajib</text>
+
+      <rect x="726" y="0" width="226" height="40" rx="20" fill="#E0EDEB"/>
+      <text x="839" y="26" fill="#146661" font-size="16" font-weight="700" text-anchor="middle">bukti bukan tebak</text>
+    </g>
+  </g>
+
+  <g transform="translate(985,60)" opacity="0.95">
+    <circle cx="80" cy="80" r="78" fill="none" stroke="#146661" stroke-width="4"/>
+    <circle cx="80" cy="80" r="60" fill="none" stroke="#146661" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M80 24 L80 40 M136 80 L120 80 M80 136 L80 120 M24 80 L40 80" stroke="#146661" stroke-width="4" stroke-linecap="round"/>
+    <path d="M80 80 L118 50" stroke="#A5402D" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="80" cy="80" r="9" fill="#1E2B30"/>
+    <text x="80" y="176" fill="#5C6E73" font-size="15" font-weight="700" letter-spacing="2.4" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">SQA / SRE</text>
+  </g>
+</svg>

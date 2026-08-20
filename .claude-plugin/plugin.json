@@ -1,0 +1,21 @@
+{
+  "name": "bengkelsaas",
+  "description": "Protokol perawatan tools dan SaaS yang sudah jalan: pagar dulu, satu perubahan satu uji, akar masalah bukan gejala, rollback selalu siap. Kepanggil otomatis tiap kerjaan menyentuh sistem berjalan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adang",
+    "url": "https://github.com/adanghd"
+  },
+  "homepage": "https://adanghd.github.io/bengkelsaas/",
+  "repository": "https://github.com/adanghd/bengkelsaas",
+  "license": "MIT",
+  "keywords": [
+    "maintenance",
+    "sre",
+    "sqa",
+    "regression",
+    "rollback",
+    "agentic",
+    "indonesia"
+  ]
+}
